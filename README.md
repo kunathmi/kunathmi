@@ -1,5 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mia!
 
+Aspiring data scientist @ MSU | SQL, Python, Git, reproducible workflows
+
+## About
+
+I am a Senior in the Honors College at Michigan State University. I will be graduating with my Data Science B.S. in May 2026, and continuing my studies at MSU by pursuing a Master's degree in Computational Mathematics, Science, and Engineering. Experience building end-to-end data pipelines for business problems and coursework in modern tools based on industry needs.
+
+You can find more details one my [portfolio page](https://kunathmi.github.io).
+
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-green)
+![SQL](https://img.shields.io/badge/SQL-Fluent-blue)
+![Git](https://img.shields.io/badge/Git-Proficient-orange)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mia-kunath) | [Email](kunathmi@msu.edu)
 <!--
 **kunathmi/kunathmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
