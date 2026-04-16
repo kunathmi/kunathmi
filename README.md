@@ -12,8 +12,9 @@ You can find more details one my [portfolio page](https://kunathmi.github.io).
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-Expert-green)
-![SQL](https://img.shields.io/badge/Git-Proficient-orange)
 ![Git](https://img.shields.io/badge/SQL-Fluent-blue)
+![SQL](https://img.shields.io/badge/Git-Proficient-orange)
+
 
 ## Connect
 
