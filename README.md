@@ -1,6 +1,6 @@
 # Hi, I'm Mia!
 
-Aspiring data scientist @ MSU | SQL, Python, Git, reproducible workflows
+Aspiring data scientist @ MSU | Python, Git, SQL, reproducible workflows
 
 ## About
 
