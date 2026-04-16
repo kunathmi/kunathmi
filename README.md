@@ -3,11 +3,18 @@
 Aspiring data scientist @ MSU | Python, Git, SQL, reproducible workflows
 
 ## About
+I'm a student interested in data science, machine learning, and building projects with real-world data.
 
-I am a Senior in the Honors College at Michigan State University. I will be graduating with my Data Science B.S. in May 2026, and continuing my studies at MSU by pursuing a Master's degree in Computational Mathematics, Science, and Engineering. Experience building end-to-end data pipelines for business problems and coursework in modern tools based on industry needs.
+You can find more details on my [portfolio page](https://kunathmi.github.io).
 
-You can find more details one my [portfolio page](https://kunathmi.github.io).
+## Currently
+- Coursework in modern tools based on industry needs
+- Working on data visualizations + ML projects
 
+## Projects
+- Concrete Cracks Classification 
+- Dance Genre Classification
+- NYC 311 Service Request Analysis Project
 
 ## Skills
 
@@ -16,7 +23,7 @@ You can find more details one my [portfolio page](https://kunathmi.github.io).
 ![SQL](https://img.shields.io/badge/SQL-Proficient-orange)
 
 
-## Connect
+## Connect 
 
 [LinkedIn](https://www.linkedin.com/in/mia-kunath) | [Email](kunathmi@msu.edu)
 <!--
